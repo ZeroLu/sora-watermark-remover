@@ -23,7 +23,7 @@ OpenAI has made it particularly challenging to get a clean version: screen recor
 
 Fortunately, there's a simple and effective solution: **[TheSoraWatermarkRemover.com](https://thesorawatermarkremover.com)**.
 
-This free online tool allows you to remove the Sora watermark in seconds, with **5 free uses per day**. No registration, no payment, no software installation needed.
+This free online tool allows you to remove the Sora watermark in seconds, with **1 free uses upon login**. No registration, no payment, no software installation needed.
 
 <img width="2592" height="1370" alt="image" src="https://github.com/user-attachments/assets/4798671e-b414-4da1-95d4-9478b5a6cf3b" />
 
@@ -66,7 +66,7 @@ The final video is perfectly clean with no visible watermark or processing flaws
 ## ⭐ Key Features
 
 -   **💧 High-Quality Removal**: Advanced algorithms cleanly remove the dynamic watermark without degrading video quality.
--   **🆓 Free to Use**: Get **5 free watermark removals** every day.
+-   **🆓 Free to Use**: Get **1 free watermark removals** upon login.
 -   **🚀 Incredibly Fast**: Processes most videos in under 3 seconds.
 -   **🚫 No Login Required**: No need to create an account or provide any personal information.
 -   **💻 100% Online**: Works directly in your browser on any device (desktop or mobile). No software to install.
